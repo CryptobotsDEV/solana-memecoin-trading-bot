@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/ee0cc216-bc35-456a-892b-94d1677fa153)
 
 🚀 How It Works:
+
 ✔️ Scans for New Tokens — Automatically searches for newly launched tokens on Raydium via DexScreener.
 ✔️ Smart Buying Logic — Filters tokens based on liquidity, volume, and market cap to avoid scams and rug pulls.
 ✔️ Auto-Selling — Sells tokens when the target ROI is reached or if the token dumps.
