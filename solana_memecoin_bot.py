@@ -4,6 +4,8 @@
 # Fully Automated Trading — Works while you sleep!
 # Telegram Alerts — Get real-time updates on buy and sell orders.
 
+# see it in action: https://www.youtube.com/watch?v=0N3dpLB8vco
+
 # GET FULL COMPLETE CODE HERE:
 # https://cryptobots.dev/
 # https://t.me/cryptobots_dev
