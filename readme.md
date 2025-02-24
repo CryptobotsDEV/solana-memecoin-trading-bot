@@ -1,3 +1,5 @@
+🚀 See it in ACTION: https://www.youtube.com/watch?v=0N3dpLB8vco
+
 ![image](https://github.com/user-attachments/assets/ee0cc216-bc35-456a-892b-94d1677fa153)
 ⚠️ Get full code at: https://cryptobots.dev/
 
